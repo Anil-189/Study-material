@@ -27,6 +27,6 @@ Day 6 - https://transcripts.gotomeeting.com/#/s/4ece78d24dec20348a4d3c257791138d
 
 Day 6 - https://drive.google.com/file/d/1nT0WFf_Ut4NTFodZOV-uWBrnB9pdbQeM/view?usp=sharing
 
-Day 7 - https://drive.google.com/file/d/1pZ4Nt6mDTZOU1dt7yNGZ4aCPCfdsmyNt/view?usp=sharing
+Day 7 - https://drive.google.com/file/d/1pZ4Nt6mDTZOU1dt7yNGZ4aCPCfdsmyNt/view?usp=sharing (Master and slave)
 
-Day 8 - https://drive.google.com/file/d/1vT5X6jJLojQbogshi65blx5xW7N9e8qE/view?usp=sharing
+Day 8 - https://drive.google.com/file/d/1vT5X6jJLojQbogshi65blx5xW7N9e8qE/view?usp=sharing (Pipeline)
