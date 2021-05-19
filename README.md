@@ -24,3 +24,9 @@ Day 4 - https://drive.google.com/file/d/1Lk6U9as5-E0kuEPAJ8QdipNyW0moigyZ/view?u
 Day 5 - https://drive.google.com/file/d/1ZMGT_xXDbcfGtM8ZCIHVmsHRcFsqfqH2/view?usp=sharing
 
 Day 6 - https://transcripts.gotomeeting.com/#/s/4ece78d24dec20348a4d3c257791138d5839d4025a1e9569a65d32c59d87a183
+
+Day 6 - https://drive.google.com/file/d/1nT0WFf_Ut4NTFodZOV-uWBrnB9pdbQeM/view?usp=sharing
+
+Day 7 - https://drive.google.com/file/d/1pZ4Nt6mDTZOU1dt7yNGZ4aCPCfdsmyNt/view?usp=sharing
+
+Day 8 - https://drive.google.com/file/d/1vT5X6jJLojQbogshi65blx5xW7N9e8qE/view?usp=sharing
